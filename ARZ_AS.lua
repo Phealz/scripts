@@ -1,6 +1,6 @@
 script_name('Arizona_Assistant')
 script_author('Phealz')
-script_version('2.4')
+script_version('2.5')
 script_description('Помощник для Аризоны. Информация по обновлению - /obcheck.')
 
 require "lib.moonloader"
